@@ -3,6 +3,10 @@ Contains the solution to the natural number game in lean 4
 
 The .json file with the game progress is also here.
 
+The natural number game is a math game that teaches us how to prove basic math thorems in lean 4.
+
+Play it here: [https://adam.math.hhu.de/#/g/leanprover-community/nng4](https://adam.math.hhu.de/#/g/leanprover-community/nng4)
+
 [Tutorial World](./addition_world/)
 
 * [1](./tutorial_world/1.lean)
